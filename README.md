@@ -1,5 +1,6 @@
 *Se liga!*
 
+O QUÊ É
  O *Se Liga!* é um projeto do governo que tem inicio no dia 04 de dezembro
 e termina no dia 15 de dezembro, que visa intensificar o ensino para ajudar 
 alunos na recuperação da aprendizagem
@@ -8,5 +9,10 @@ alunos na recuperação da aprendizagem
 cada materia a ser desenvolvida, tendo a Seed observando o progresso do aluno
 durante o projeto.
 
+OBJETIVO
  Busca ajudar alunos que tem dificuldade em certas materias durante o ano,
-entregando projetos que podem ser usados para melhorar sua nota na materia designada,
+entregando projetos que podem ser usados para melhorar sua nota na materia designada.
+
+ALVO
+ Alunos que tiveram um rendimento baixo ou apresentaram dificuldade em certas materias 
+são mandados para o projeto
