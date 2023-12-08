@@ -1,4 +1,4 @@
-Se liga
+*Se liga!*
 
  O *Se Liga!* é um projeto do governo que tem inicio no dia 04 de dezembro
 e termina no dia 15 de dezembro, que visa intensificar o ensino para ajudar 
